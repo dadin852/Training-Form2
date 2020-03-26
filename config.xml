@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "dadin852"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Training Form</name>
+
+  <description>
+      In Christ
+  </description>
+
+  <author href="https://build.phonegap.com" email="dadin852@gmail.com">
+      dadin852
+  </author>
+
+  <icon src="Christ Icon.png" />
+
+</widget>
